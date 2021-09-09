@@ -9,3 +9,16 @@ body{
 .header h1{
   font-size: 50px;
 }
+
+.content{
+  width:80%;
+  padding-left:10%;
+}
+
+hr{
+  color:black;
+  background-color:black;
+  border:solid;
+  border-width:2px;
+  width:50%;
+}
