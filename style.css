@@ -8,11 +8,32 @@ body{
 
 .header h1{
   font-size: 50px;
+  margin-bottom:0px;
+}
+
+.header ul{
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+}
+
+.current-page{
+  color:black;
+  text-decoration:none;
+}
+
+.header li{
+  display:inline-block;
+  margin:0px 20px;
 }
 
 .content{
   width:80%;
   padding-left:10%;
+}
+
+.content h2{
+  padding-left:7.5%;
 }
 
 hr{
@@ -21,4 +42,13 @@ hr{
   border:solid;
   border-width:2px;
   width:50%;
+}
+
+.content p{
+  text-indent:2em;
+}
+
+.citation p{
+  text-indent:-2em;
+  margin-left:2em;
 }
