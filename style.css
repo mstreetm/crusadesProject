@@ -9,7 +9,7 @@ body{
 
 .header li{
   display:inline-block;
-  margin:0px 20px;
+  margin:0px 10px;
 }
 
 .header ul{
@@ -27,4 +27,4 @@ hr{
 .citation p{
   text-indent:-2em;
   margin-left:2em;
-} 
+}
