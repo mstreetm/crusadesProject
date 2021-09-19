@@ -1,20 +1,5 @@
 body{
-  background-color:#fbe5c3;
-}
-
-.header{
-  text-align:center;
-}
-
-.header h1{
-  font-size: 50px;
-  margin-bottom:0px;
-}
-
-.header ul{
-  list-style-type:none;
-  margin:0px;
-  padding:0px;
+  background-color:#FCF5E5;
 }
 
 .current-page{
@@ -27,13 +12,8 @@ body{
   margin:0px 20px;
 }
 
-.content{
-  width:80%;
-  padding-left:10%;
-}
-
-.content h2{
-  padding-left:7.5%;
+.header ul{
+  padding:0px;
 }
 
 hr{
@@ -41,14 +21,10 @@ hr{
   background-color:black;
   border:solid;
   border-width:2px;
-  width:50%;
-}
-
-.content p{
-  text-indent:2em;
+  width:90%;
 }
 
 .citation p{
   text-indent:-2em;
   margin-left:2em;
-}
+} 
